@@ -1,0 +1,77 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Visual Studio cache files
+*.cache
+*.pdb
+*.mdb
+*.opendb
+
+# Publish outputs
+publish/
+
+# User-specific files
+*.swp
+*.lock.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Web live reload files
+*.vsix
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.Trashes
+
+# static web assets from build
+staticwebassets.build.json
+staticwebassets.development.json
+staticwebassets.*.json
+
+# Rider
+*.sln.iml
